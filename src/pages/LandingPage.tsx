@@ -20,7 +20,6 @@ const LandingPage = () => {
       });
     }
   }, [location.hash]);
-
   return (
     <>
       <WelcomeSection />
